@@ -1,5 +1,0 @@
-<?php 
-$todoList = array();
-
-
-?>
